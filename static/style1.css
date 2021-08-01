@@ -64,6 +64,7 @@ p.paragraph {
 .us {
   float: right;
   padding: 20px;
+  width: inherit
 }
 
 .description {
