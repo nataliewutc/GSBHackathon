@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>HerHealth</title>
+    <link rel="stylesheet" href="C:\Users\Natalie\Desktop\CODING PROJECTS\GSB\static\style1.css" />
+</head>
+
+<body>
+
+<!-- nav bar -->
+
+
+<nav>
+    <div class="topnav">
+        <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen_Shot_2021-07-31_at_6.53.44_PM-removebg-preview.png?v=1627772254412"
+             class="logo"/>
+        <a href="#Our Mission">Our Mission</a>
+        <a href="#LIVE Workouts">LIVE Workouts</a>
+        <a href="#Create Workout">Create Workout</a>
+        <a href="#Workout Videos">Workout Videos</a>
+        <a href="#Profile">Profile</a>
+        <div/>
+</nav>
+
+
+
+
+<!-- header-->
+
+<header>
+    <h1>
+        HerHealth
+    </h1>
+    <h2>
+        HerHealth, HerWay
+    </h2>
+
+</header>
+
+
+
+<!-- our mission section -->
+<main>
+    <section class="OurMission" id="Our Mission">
+        <h2>Our Mission </h2>
+        <div class="picture">
+
+
+            <p class= "paragraph">
+                At HerHealth, we hope to simulate a safe space for all women where they can reach their potential, stay fit and have fun! By creating programs that cater directly to your goals and personal interests, we make working out that much better. Whether you choose to access our content at home or at the gym, we ensure it’ll keep you motivated which can be the hardest part sometimes. We find progressing alongside other women is greater encouragement as it allows you to feel more comfortable to ask questions and push yourself!
+
+            </p>
+
+            <p class= "paragraph">
+                Creators: Amélie Mattheus, Arushi, Natalie Wu and Sharuka Jeyakumar!
+            </p>
+
+        </div>
+
+
+        <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FUntitled%20design-4.png?v=1627771411193"
+             class="team"/>
+
+    </section>
+
+
+
+    <!-- live workouts -->
+
+    <section class="LIVEWorkouts" id="LIVE Workouts">
+        <h2>Live Workouts</h2>
+        <h3>Come Join a Morning Workout With Me!</h3>
+        <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%205.20.29%20PM.png?v=1627766449908"
+             class="live"/>
+        <div>
+
+
+            <label for="Question">Question for the host?:</label>
+            <input type="text" id="Question" Question="Question" size="15">
+
+            <p class="comment">
+                @snoopdog123: Omg this workout is amazing!!!
+            </p>
+
+            <p class="comment">
+                @btslover7: I cannot wait for you're next live! ;)
+            </p>
+        </div>
+
+
+        <h3>Killer Leg Combo!</h3>
+        <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%208.03.26%20PM.png?v=1627776221515"
+             class="live"/>
+        <div>
+
+
+            <label for="Question">Question for the host?:</label>
+            <input type="text" id="Question" Question="Question" size="15">
+
+            <p class="comment">
+                @ana123: I love this workout!!
+            </p>
+
+            <p class="comment">
+                @tukki786: Love you!
+            </p>
+        </div>
+    </section>
+
+
+
+    <!-- create workout -->
+
+    <section class="CreateWorkout" id="Create Workout">
+        <h2>Create a Workout</h3>
+
+            <form method ="POST" action="/">
+                <button class = "btn" type="submit" name="Chair" value="Chair"> Chair </button>
+                <button class = "btn" type="submit" name="Yoga mat" value="Yoga mat"> Yoga mat </button>
+            </form>
+            <img src= "{{ user_image }}"
+                 width="800"
+                 height="900"
+                 alt="Blank"/>
+
+
+    </section>
+
+
+
+
+
+    <!-- workout videos -->
+    <section class="WorkoutVideos" id="Workout Videos">
+        <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+        <h2>Workout Videos</h2>
+        <h3>Pick your next workout!</h3>
+        <h3>Working on those Peaches!</h3>
+        <div class="row">
+            <div class="column">
+                <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%206.05.16%20PM.png?v=1627769160337" alt="15 min knee freidly workout" style="width:100%">
+            </div>
+            <div class="column">
+                <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%205.08.57%20PM.png?v=1627765782598" alt="15 min booty" style="width:100%">
+            </div>
+            <div class="column">
+                <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%205.09.27%20PM.png?v=1627765782119" alt="booty+cardio" style="width:100%">
+            </div>
+        </div>
+
+        </div>
+
+
+    </section>
+
+
+
+
+    <section class="Profile" id="Profile">
+        <h2>Profile </h2>
+        <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%207.37.27%20PM.png?v=1627774663684"
+             class="Ana"/>
+        <div class="description">
+
+            <p>
+                Ana Holden
+            </p>
+
+            <p>
+                Female
+            </p>
+
+            <p>
+                Age 35
+            </p>
+
+            <p>
+                Toronto, Canada
+            </p>
+
+            <div>
+                <p>
+                    Hi my name is Ana! I am very passionate about staying fit and I love eating healthy. I like to curl up with a good book and a cup of coffee by my side after a good pump. You can also catch me at the pool, or catching a subway downtown.
+
+                </p>
+            </div>
+        </div>
+        <div>
+            <h4>
+                The Workout I Recently Finished:
+            </h4>
+            <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%208.03.26%20PM.png?v=1627776221515"/>
+
+            <h4>
+                Workout I Love:
+            </h4>
+            <img src="https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2FScreen%20Shot%202021-07-31%20at%205.09.27%20PM.png?v=1627765782119"/>
+        </div>
+
+    </section>
+
+
+</main>
+
+
+
+
+
+<!-- footer & contact info -->
+
+
+</body>
+</html>
