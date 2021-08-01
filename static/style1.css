@@ -222,6 +222,17 @@ h2 {
   padding-left: 10px;
 }
 
+audio{
+  audio-repeat: repeat;
+  color: red;
+}
+section.Music {
+  box-shadow: inset 0 0 8px purple;
+  text-align: center;
+  background: rgba(255, 250, 222);
+  color: black
+}
+
 footer {
   width: 100%;
   background-color: #e6c1e6;
