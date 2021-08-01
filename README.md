@@ -1,4 +1,7 @@
 ![Her health ](https://user-images.githubusercontent.com/81494714/127771767-3f3c923b-ca84-4208-9884-0a9c4eabea3b.jpg)
+
+https://gsb-hack.herokuapp.com/
+
 ## Inspiration
 With the pandemic keeping people at home, it has been hard to keep fit. With the limited equipment most of us have at home, it's hard to perform the workouts we want to. Therefore, we were inspired to create something that would allow people to workout effectively at home by selecting the equipment they have and our site will provide a workout routine tailored for it. Another one of our inspirations came from the fact that women are hugely disadvantaged at the gym due to the fear of being body shamed, sexualized and mansplained to are extremely high compared to men. Therefore, we created this online gym for women and non-binary folk. A place where they can feel safe and comfortable to continue on their fitness journey.
 
