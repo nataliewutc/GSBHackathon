@@ -63,8 +63,6 @@ p.paragraph {
 
 .us {
   float: right;
-  padding: 20px;
-  width: inherit
 }
 
 .description {
@@ -77,8 +75,12 @@ p.paragraph {
   border-radius: 50%;
   border: 5px solid Salmon;
 }
-.team {
-  width: 45%;
+.team1 {
+}
+
+.fix{
+  width: 20px;
+  overflow: hidden;
 }
 
 .picture {
