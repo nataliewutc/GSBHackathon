@@ -1,5 +1,5 @@
 body {
-  font-family: font-family: Verdana,Geneva,sans-serif;
+  font-family: Verdana,Geneva,sans-serif;
    background-image: url(https://cdn.glitch.com/4b64a68e-215e-4955-a35e-0e8499b6d0f9%2Fwall2.png?v=1627790953498);
   background-repeat: repeat;
 
@@ -41,7 +41,7 @@ nav {
 
 .glutes {
   text-align: center;
-  text-size: 20px;
+  font-size: 20px;
 }
 
 .logo {
@@ -221,7 +221,7 @@ h2 {
 footer {
   width: 100%;
   background-color: #e6c1e6;
-  colour: white;
+  color: white;
   left: 0;
   bottom: 0;
 }
