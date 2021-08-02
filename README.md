@@ -12,6 +12,7 @@ Our app allows users to select the equipment they own at home (e.g. Chair) and w
 Front-end: html, CSS (partly coded on Glitch) 
 Back-end: python, Flask
 Github
+Heroku
 
 ## Challenges we ran into
 With front-end, it was difficult to style the CSS as we wanted due to the amount that we had to style for our webpage. It was also challenging when it came to formatting the website how we wanted to. However, with a lot of team work and help from mentors, we managed to present our website like we imagined it to be. With back-end, it was challenging to code the function so that a workout tailored to the equipment is shown when the buttons are pressed. Also as we were beginners with web dev, we had to learn on the go when it came to fully running the website cohesively.
@@ -23,4 +24,4 @@ We are extremely proud of how we have come together as team and tackled all our 
 It has been a great experience and chance to learn how to work together as a team and be there for each other when we needed help. We also learnt how to divide work effectively so that everyone can enjoy their task whilst learning. The importance of market research and content creation was also highlighted during this project due to the product's heavy reliance on content. It was a great opportunity to learn how to code collaboratively so that everything fits together nicely - we communicated every few hours so that we could be updated with what the whole team was doing. An extremely rewarding experience overall. 
 
 ## What's next for Her Health
-First and foremost we will be putting it online, which we have been trying but had ran out of time. We definitely want to add more functionalities to our webpage for example adding a spotify widget using their API so that users can listen to their favorite music whilst working out at home. Moreover, we plan to fully implement all the functionalities to our webpage so that users can enjoy our product !
+We definitely want to add more functionalities to our webpage for example adding a spotify widget using their API so that users can listen to their favorite music whilst working out at home. Moreover, we plan to fully implement all the functionalities to our webpage so that users can enjoy our product !
