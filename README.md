@@ -3,6 +3,9 @@ https://youtu.be/0r1ABtsAGJI
 
 https://gsb-hack.herokuapp.com/
 
+## Team 
+Natalie Wu (Backend), Sheruka Jeyakumar (Frontend) 
+
 ## Inspiration
 With the pandemic keeping people at home, it has been hard to keep fit. With the limited equipment most of us have at home, it's hard to perform the workouts we want to. Therefore, we were inspired to create something that would allow people to workout effectively at home by selecting the equipment they have and our site will provide a workout routine tailored for it. Another one of our inspirations came from the fact that women are hugely disadvantaged at the gym due to the fear of being body shamed, sexualized and mansplained to are extremely high compared to men. Therefore, we created this online gym for women and non-binary folk. A place where they can feel safe and comfortable to continue on their fitness journey.
 
@@ -26,3 +29,4 @@ It has been a great experience and chance to learn how to work together as a tea
 
 ## What's next for Her Health
 We definitely want to add more functionalities to our webpage for example adding a spotify widget using their API so that users can listen to their favorite music whilst working out at home. Moreover, we plan to fully implement all the functionalities to our webpage so that users can enjoy our product !
+
